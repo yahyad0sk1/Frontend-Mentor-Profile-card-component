@@ -29,7 +29,7 @@ p {
 }
 .top-bg {
     position: absolute;
-    background: url("/images/bg-pattern-top.svg");
+    background: url("./images/bg-pattern-top.svg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 978px;
@@ -39,7 +39,7 @@ p {
 }
 .bottom-bg {
     position: absolute;
-    background: url("/images/bg-pattern-bottom.svg");
+    background: url("./images/bg-pattern-bottom.svg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 978px;
